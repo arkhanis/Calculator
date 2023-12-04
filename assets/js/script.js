@@ -24,7 +24,7 @@ const calculator = document.querySelector(".calculator");
 const togglerIcon = document.querySelector("toggler-icon");
 let isDark = true;
 themeToggleBtn.onclick = () => {
-  calculator.classList.toggle("dark")
-  themeToggleBtn.classList.toggle("active")
+  calculator.classList.toggle("dark");
+  themeToggleBtn.classList.toggle("active");
   isDark = !isDark;
-}
+};
