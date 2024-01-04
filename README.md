@@ -5,8 +5,10 @@
 ### `Description:` 
 This project is a Calculator.
 ### `Features:`
-- Responsive for all devices
 - Build using HTML, CSS, and JavaScript.
+- Dark and light Mode.
+- Responsive for all devices.
+
 
 ## Tecnologies 🚀
 <!-- Icons taken from: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
